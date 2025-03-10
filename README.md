@@ -58,12 +58,8 @@ The project uses **NBA Player Stats and Injury Data** collected from **2013 to 2
 - The **injury classification model** categorizes potential injuries based on player history.  
 - The **performance analysis model** helps in team strategy by identifying key players and their playing styles.  
 
-## **Contributors**  
-- **[Your Name]** – AI & Sports Analytics Research  
 
 ## **License**  
 This project is licensed under the **MIT License**.  
 
 ---
-
-This README provides a **clear, professional, and structured** explanation of your project. Let me know if you'd like any modifications! 🚀
