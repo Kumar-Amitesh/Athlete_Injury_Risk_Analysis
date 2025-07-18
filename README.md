@@ -1,4 +1,3 @@
-Here’s a well-structured README for your project:  
 
 ---
 
@@ -57,9 +56,6 @@ The project uses **NBA Player Stats and Injury Data** collected from **2013 to 2
 - The **injury prediction model** provides a risk assessment for NBA players.  
 - The **injury classification model** categorizes potential injuries based on player history.  
 - The **performance analysis model** helps in team strategy by identifying key players and their playing styles.  
-
-
-## **License**  
-This project is licensed under the **MIT License**.  
+ 
 
 ---
